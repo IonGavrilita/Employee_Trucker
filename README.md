@@ -28,7 +28,7 @@ So that I can organize and plan my business
 
 ### Installation  
 * Copy repository on your local machine
-* Create a `.gitignore` file and include `node_modules/`, `.DS_Store/`, `.DS_Store/` so that your `node_modules` directory nad password isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
+* Create a `.gitignore` file and include `node_modules/`, `.DS_Store/`, `.env/` so that your `node_modules` directory and password isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 * Run npm install  in your terminal to install all dependency
 * Open new terminal window and run: mysql -u root -p. Enter your password to run MySQL
 * Add .env file and add your password.
