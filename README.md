@@ -40,7 +40,7 @@ So that I can organize and plan my business
 - Repository Link - (https://github.com/IonGavrilita/Employee_Trucker)
 
 ### Contributors
-* Name: Ion Gavrilita
+- Name: Ion Gavrilita
 - Email: gavrilita.ion.93@gmail.com
 - Github profile: https://github.com/IonGavrilita
 ### License
